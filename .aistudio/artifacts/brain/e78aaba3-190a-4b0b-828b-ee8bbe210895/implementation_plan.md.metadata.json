@@ -1,0 +1,6 @@
+{
+  "summary": "Rencana implementasi dropdown searchable interaktif untuk pemilihan nama siswa pada formulir Catatan Siswa (StudentNotesTab.tsx) dengan fitur pencarian real-time berdasarkan nama lengkap, NIS, maupun nomor absen serta preview foto siswa.",
+  "updatedAt": "2026-10-19T00:15:24.645654109Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
