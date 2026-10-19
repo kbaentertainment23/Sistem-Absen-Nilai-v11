@@ -1,0 +1,10 @@
+{
+  "name": "S I M P A N - Pencatat Absensi dan Nilai Siswa",
+  "description": "Aplikasi pelacak absensi harian, rekapitulasi bulanan, jurnal harian, serta nilai formatif dan sumatif siswa dengan database Firebase Firestore.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
